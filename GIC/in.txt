@@ -1,0 +1,6 @@
+3 3 3
+A B C
+a b c
+A -> aB/bB/cB
+B -> aC/bC/cC
+C -> a/b/c
